@@ -1,3 +1,6 @@
+//Quick Sort is a highly efficient sorting algorithm used for rearranging elements in an array or list in ascending or descending order.
+//It is favored for its average-case performance of O(n log n) and its ability to sort in-place.
+
 #include <iostream>
 #include <vector>
 
